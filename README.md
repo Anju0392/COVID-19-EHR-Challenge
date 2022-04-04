@@ -14,3 +14,6 @@ A machine approach called Naïve Bayes classification model is used, which uses 
 
 ### Findings & Result
 The developed a Naïve Bayes model on a selected subset of data from the various clinical measures data available from the synthetic EHR database results in an accuracy of 0.8949 on synthetic data.
+
+
+A full link to the report is avilable in the given google drive link https://drive.google.com/drive/folders/1p50Jii16MjBo3U31C6SLu_5INtXn67mG?usp=sharing.
